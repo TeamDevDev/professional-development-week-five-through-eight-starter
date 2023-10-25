@@ -70,7 +70,7 @@ partners wrote during this module:
 TODO: In the above list you must provide a specific link to the GitHub issue
 tracker entry on your partner's web site. Please do not (i) provide a general
 link to an entire GitHub repository or ts issue tracker, (ii) repeat the same
-link to a GitHub issue more than once, or (iii) provide links to content not on
+link to a GitHub issue more than once, or (iii) provide links to content not
 found in the GitHub issue tracker for your partner.
 
 ### Executive Summaries
